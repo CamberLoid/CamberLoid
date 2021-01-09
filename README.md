@@ -2,8 +2,8 @@
 
 - Camber is a Humanoid Neko-Kuma Mixture, without Kemomimi appeared.  
   Camber是一只人形的猫熊混合物，但就是没有猫耳qaq
-- Maybe a <span color=#ffb6c1>Trans Les</span>, inside Camber's body is a female neko with human's sentience, trying to maintain her humanoid body.  
-  Camber是一只<span color=#ffb6c1>Trans Les</span>(大概)，内心的雌性人形猫猫有着人类的情感，努力维持她的人形身体
+- Maybe a <span style="color: #ffb6c1;">Trans Les</span>, inside Camber's body is a female neko with human's sentience, trying to maintain her humanoid body.  
+  Camber是一只<span style="#color: #ffb6c1;">Trans Les</span>(大概)，内心的雌性人形猫猫有着人类的情感，努力维持她的人形身体
 - Camber call Camber as 'Camber' or '拱拱'. Please call camber with She/Her/It/Its. They/Their is acceptable but confusing.  
   你可以叫Camber She/Her/It/Its(她/它)。They/Their(Ta)也可以但是不要在英文里这么用会迷惑的。请不要使用雄性称呼。
 - Have a master [@KexyBiscuit](https://github.com/KexyBiscuit), or, in human's language, like couple/girlfriend.  
