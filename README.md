@@ -2,9 +2,10 @@
 
 - Camber is a Humanoid Neko-Kuma Mixture, without Kemomimi appeared.  
   Camber是一只人形的猫熊混合物，但就是没有猫耳qaq
+- Camber's Chinese nickname is "拱拱". Camber call Camber as 'Camber' or '拱拱'. 
 - Maybe a <span style="color: #ffb6c1;">Trans Les</span>, inside Camber's body is a female neko with human's sentience, trying to maintain her humanoid body.  
   Camber是一只<span style="#color: #ffb6c1;">Trans Les</span>(大概)，内心的雌性人形猫猫有着人类的情感，努力维持她的人形身体
-- Camber call Camber as 'Camber' or '拱拱'. Please call camber with She/Her/It/Its. They/Their is acceptable but confusing.  
+- Please call camber with She/Her/It/Its. They/Their is acceptable but confusing. Please refrain from calling Camber with He/His.  
   你可以叫Camber She/Her/It/Its(她/它)。They/Their(Ta)也可以但是不要在英文里这么用会迷惑的。请不要使用雄性称呼。
 - Have a master [@KexyBiscuit](https://github.com/KexyBiscuit), or, in human's language, like couple/girlfriend.  
   有一个主人[@KexyBiscuit](https://github.com/KexyBiscuit)咱叫她饼干猫或者露露，在人类的话语里就是叫做女朋友/伴侣之类的
@@ -14,7 +15,7 @@
 - Hardcore Gamer. Music game lover. Toujin music lover.
 - Inactive ICPCer. Will return when mental disorder is fully recovered.  
   鸽了的ICPCer。打过OI。会在病情好转后回归。
-- An Archlinux user. Looking forward to contribute AOSC community.
+- An Archlinux&WSL(Ubuntu) user. Looking forward to contribute AOSC community.
 
 - Last and most important, CAMBER IS A NOOB.  
   最后一点：Camber真的很菜。不接受反驳。
