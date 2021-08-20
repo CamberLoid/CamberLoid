@@ -16,7 +16,7 @@
 - Inactive ICPCer. Will return when mental disorder is fully recovered.  
   鸽了的ICPCer。打过OI。会在病情好转后回归。
 - An Archlinux&WSL(Ubuntu) user. Looking forward to contribute AOSC community.
-- Potential participant of OSPP Summer 2021 / [OI-wiki/i18n](https://github.com/oi-wiki/i18n)
+- Participant of OSPP Summer 2021 / [OI-wiki/i18n](https://github.com/oi-wiki/i18n) + CamberLoid/OI-wiki_i18n
 
 - Last and most important, CAMBER IS A NOOB, NO EXCEPTIONS.  
   最后一点：Camber真的很菜。不接受反驳。
