@@ -21,7 +21,7 @@
 - Participant of OSPP Summer 2021 / [OI-wiki/i18n](https://github.com/oi-wiki/i18n) + CamberLoid/OI-wiki_i18n
 
 #### `$ cat ~/.miscs`
-- Have major depression disorder.
+- ~~Have major depression disorder.~~ Healed, I think.
 - Hardcore Gamer. Music game player. Toujin music lover.
 - Retired OIer/ICPCer.
 - Last and most important, CAMBER IS A NOOB, NO EXCEPTIONS.  
