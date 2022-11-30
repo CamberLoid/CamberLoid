@@ -13,6 +13,12 @@ Warning: the `Most Used Language` is not accurate.
 - Camber is a CS an free-and-open-source software enthusiast, but not a CS-related student;
 - Loves [@bzy-nya](https://github.com/bzy-nya) who is so kawaii~~~~
 
+#### Most used Languages, true
+
+- Shell/Bash Scripting
+- Python 3
+- C/C++
+
 #### `$ pwd`
 - Undergraduate student of [School of Economics And Management](https://emsen.xidian.edu.cn/), [Xidian University](https://en.xidian.edu.cn)(Official name)/Xi'an Electronic and Technology University(Unofficial);
 - Salted developer of Anthon Open Source Community [@AOSC-dev](https://github.com/aosc-dev)
