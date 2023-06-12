@@ -16,27 +16,33 @@ Warning: the `Most Used Language` is not accurate, and `Stars` also counted star
 #### Most used Languages, true
 
 - Shell/Bash Scripting
+- Golang
 - Python 3
 - C/C++
 
 #### `$ pwd`
-- Undergraduate student of [School of Economics And Management](https://emsen.xidian.edu.cn/), [Xidian University](https://en.xidian.edu.cn)(Official name)/Xi'an Electronic and Technology University(Unofficial);
+- B.S. of [School of Economics And Management](https://emsen.xidian.edu.cn/), [Xidian University](https://en.xidian.edu.cn)
 - Salted developer of Anthon Open Source Community [@AOSC-dev](https://github.com/aosc-dev)
+  - Ex-Internship in PLCT Lab, ISCAS
 
 #### `$ ls ~/projects`
 - Salted package maintainer of AOSC OS, linux distribution from Anthon OS Community;
 - Working on board support package of AOSC OS for Allwinner's D1(sun20iw1p1) platform;
-- Participant of OSPP Summer 2021 / [OI-wiki/i18n](https://github.com/oi-wiki/i18n) + CamberLoid/OI-wiki_i18n
+- OSPP Student & Mentor
+  - Participant of OSPP Summer 2021 / [OI-wiki/i18n](https://github.com/oi-wiki/i18n) + CamberLoid/OI-wiki_i18n
+  - Mentor of OSPP Supper 2023 / Automated Test Framework of Autobuild3
+- CamberLoid/Chimata: Personal graduate project, which use CKKS to protect privacy in e-commerce transactions.
 
 #### `$ ls ~/.local/bin` (Or interests)
 - Gaming! of various type! 
   - And on various platform!
 - Anything cool!
+  - Have two Allwinner D1-based SBCs
 
 #### `$ cat ~/.miscs`
 - ~~Have major depression disorder.~~ Healed, I think.
 - Hardcore Gamer. Music game player. Toujin music lover.
-- Retired OIer/ICPCer.
+- Intrested in Competitive Programming. A retired OIer/ICPCer.
 - Last and most important, CAMBER IS A NOOB, NO EXCEPTIONS.  
   
 ### Websites
