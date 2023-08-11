@@ -21,13 +21,14 @@ Warning: the `Most Used Language` is not accurate, and `Stars` also counted star
 - C/C++
 
 #### `$ pwd`
+- Employee of CATL BP&IT / GICC department
 - B.S. of [School of Economics And Management](https://emsen.xidian.edu.cn/), [Xidian University](https://en.xidian.edu.cn)
 - Salted developer of Anthon Open Source Community [@AOSC-dev](https://github.com/aosc-dev)
   - Ex-Internship in PLCT Lab, ISCAS
 
 #### `$ ls ~/projects`
 - Salted package maintainer of AOSC OS, linux distribution from Anthon OS Community;
-- Working on board support package of AOSC OS for Allwinner's D1(sun20iw1p1) platform;
+- Working on board support package of AOSC OS for Allwinner's D1(sun20iw1p1) platform (for so long!);
 - OSPP Student & Mentor
   - Participant of OSPP Summer 2021 / [OI-wiki/i18n](https://github.com/oi-wiki/i18n) + CamberLoid/OI-wiki_i18n
   - Mentor of OSPP Supper 2023 / Automated Test Framework of Autobuild3
@@ -38,11 +39,12 @@ Warning: the `Most Used Language` is not accurate, and `Stars` also counted star
   - And on various platform!
 - Anything cool!
   - Have two Allwinner D1-based SBCs
+  - And one Lichee Pi 4A, sponsored by PLCT
 
 #### `$ cat ~/.miscs`
-- ~~Have major depression disorder.~~ Healed, I think.
 - Hardcore Gamer. Music game player. Toujin music lover.
-- Intrested in Competitive Programming. A retired OIer/ICPCer.
+- Trying to learn DevOps
+- Was intrested in Competitive Programming. Retired OIer/ICPCer.
 - Last and most important, CAMBER IS A NOOB, NO EXCEPTIONS.  
   
 ### Websites
