@@ -6,14 +6,14 @@
 Warning: the `Most Used Language` is not accurate, and `Stars` also counted stars in my orgnizations.
 
 #### `$ uname -a`
-- Neko-kuma Camber 18-years-old-if-you-ask No-SMP Some-month-and-some-day riscv64
+- nekoCore Camber 18-years-old-if-you-ask No-SMP Some-month-and-some-day riscv64
 
 #### `$ whoami`
 - Camber's Chinese nickname is "拱拱". Camber call Camber as 'Camber' or '拱拱';
 - Camber is a CS an free-and-open-source software enthusiast, but not a CS-related student;
 - Loves [@bzy-nya](https://github.com/bzy-nya) who is so kawaii~~~~
 
-#### Most used Languages, true
+#### Most used Languages
 
 - Shell/Bash Scripting
 - Golang
@@ -21,7 +21,7 @@ Warning: the `Most Used Language` is not accurate, and `Stars` also counted star
 - C/C++
 
 #### `$ pwd`
-- Employee of CATL BP&IT / GICC department
+- SRE @ CATL BP&IT 
 - B.S. of [School of Economics And Management](https://emsen.xidian.edu.cn/), [Xidian University](https://en.xidian.edu.cn)
 - Salted developer of Anthon Open Source Community [@AOSC-dev](https://github.com/aosc-dev)
   - Ex-Internship in PLCT Lab, ISCAS
@@ -33,6 +33,7 @@ Warning: the `Most Used Language` is not accurate, and `Stars` also counted star
   - Participant of OSPP Summer 2021 / [OI-wiki/i18n](https://github.com/oi-wiki/i18n) + CamberLoid/OI-wiki_i18n
   - Mentor of OSPP Supper 2023 / Automated Test Framework of Autobuild3
 - CamberLoid/Chimata: Personal graduate project, which use CKKS to protect privacy in e-commerce transactions.
+- Trying to write something O11y related
 
 #### `$ ls ~/.local/bin` (Or interests)
 - Gaming! of various type! 
@@ -43,7 +44,7 @@ Warning: the `Most Used Language` is not accurate, and `Stars` also counted star
 
 #### `$ cat ~/.miscs`
 - Hardcore Gamer. Music game player. Toujin music lover.
-- Trying to learn DevOps
+- Trying to learn Rust.
 - Was intrested in Competitive Programming. Retired OIer/ICPCer.
 - Last and most important, CAMBER IS A NOOB, NO EXCEPTIONS.  
   
