@@ -11,7 +11,6 @@ Warning: the `Most Used Language` is not accurate, and `Stars` also counted star
 #### `$ whoami`
 - Camber's Chinese nickname is "拱拱". Camber call Camber as 'Camber' or '拱拱';
 - Camber is a CS an free-and-open-source software enthusiast, but not a CS-related student;
-- Loves [@bzy-nya](https://github.com/bzy-nya) who is so kawaii~~~~
 
 #### Most used Languages
 
