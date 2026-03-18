@@ -47,6 +47,10 @@ Warning: the `Most Used Language` is not accurate, and `Stars` also counted star
 - Was intrested in Competitive Programming. Retired OIer/ICPCer.
 - Last and most important, CAMBER IS A NOOB, NO EXCEPTIONS.  
   
+#### Best neko friends forever
+- Nekoball~ https://github.com/bzy-nya
+- Fumo~ https://github.com/wertyuilife2
+
 ### Websites
 - https://t.me/CamberLogistics
 - https://logistics.camber.moe (Unmaintained, on GH Pages)
