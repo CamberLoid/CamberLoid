@@ -6,9 +6,11 @@
 Warning: the `Most Used Language` is not accurate, and `Stars` also counted stars in my orgnizations.
 
 #### `$ uname -a`
+
 - nekoCore Camber 18-years-old-if-you-ask No-SMP Some-month-and-some-day riscv64
 
 #### `$ whoami`
+
 - Camber's Chinese nickname is "拱拱". Camber call Camber as 'Camber' or '拱拱';
 - Camber is a CS an free-and-open-source software enthusiast, but not a CS-related student;
 
@@ -20,12 +22,20 @@ Warning: the `Most Used Language` is not accurate, and `Stars` also counted star
 - C/C++
 
 #### `$ pwd`
-- SRE @ CATL BP&IT 
+
+- SRE @ CATL AI Infra Team
+- Focus on observability & scheduling
+
+#### `$ journalctl -fe`
+
+- SRE @ CATL IT (2023-2026)
+  - Observability & Operation platform engineering
 - B.S. of [School of Economics And Management](https://emsen.xidian.edu.cn/), [Xidian University](https://en.xidian.edu.cn)
 - Salted developer of Anthon Open Source Community [@AOSC-dev](https://github.com/aosc-dev)
   - Ex-Internship in PLCT Lab, ISCAS
 
 #### `$ ls ~/projects`
+
 - Salted package maintainer of AOSC OS, linux distribution from Anthon OS Community;
 - Working on board support package of AOSC OS for Allwinner's D1(sun20iw1p1) platform (for so long!);
 - OSPP Student & Mentor
@@ -35,6 +45,7 @@ Warning: the `Most Used Language` is not accurate, and `Stars` also counted star
 - Trying to write something O11y related
 
 #### `$ ls ~/.local/bin` (Or interests)
+
 - Gaming! of various type! 
   - And on various platform!
 - Anything cool!
@@ -42,16 +53,20 @@ Warning: the `Most Used Language` is not accurate, and `Stars` also counted star
   - And one Lichee Pi 4A, sponsored by PLCT
 
 #### `$ cat ~/.miscs`
+
 - Hardcore Gamer. Music game player. Toujin music lover.
 - Trying to learn Rust.
 - Was intrested in Competitive Programming. Retired OIer/ICPCer.
 - Last and most important, CAMBER IS A NOOB, NO EXCEPTIONS.  
   
 #### Best neko friends forever
+
 - Nekoball~ https://github.com/bzy-nya
 - Fumo~ https://github.com/wertyuilife2
+- Kitsune~ https://github.com/Kihara777
 
 ### Websites
+
 - https://t.me/CamberLogistics
 - https://logistics.camber.moe (Unmaintained, on GH Pages)
 - Contact me personal: camber@poi.science
