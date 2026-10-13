@@ -3,8 +3,6 @@
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camberloid&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=camberloid&theme=dark&show_icons=true&hide_border=true&layout=compact) |
 | ------------- | ------------- |
 
-Warning: the `Most Used Language` is not accurate, and `Stars` also counted stars in my orgnizations.
-
 #### `$ uname -a`
 
 - nekoCore Camber 18-years-old-if-you-ask No-SMP Some-month-and-some-day riscv64
@@ -24,7 +22,6 @@ Warning: the `Most Used Language` is not accurate, and `Stars` also counted star
 #### `$ pwd`
 
 - SRE @ CATL AI Infra Team
-- Focus on observability & scheduling
 
 #### `$ journalctl -fe`
 
