@@ -12,12 +12,14 @@
 - Camber's Chinese nickname is "拱拱". Camber call Camber as 'Camber' or '拱拱';
 - Camber is a CS an free-and-open-source software enthusiast, but not a CS-related student;
 
-#### Most used Languages
+#### `$ find . -type f | sed -n 's/.*\.//p' | sort -u `
 
-- Shell/Bash Scripting
-- Golang
-- Python 3
-- C/C++
+- `.yaml`
+- `.md` (Seriously)
+- `.sh` / `.bash`
+- `.go`
+- `.py`
+- `.c` / `.cpp`
 
 #### `$ pwd`
 
